@@ -1,0 +1,9 @@
+# Ignore
+node_modules/
+.temp_ag_kit/
+mgmt-doc
+tests
+others
+.DS_Store
+**/__pycache__/
+**/__pycache__/

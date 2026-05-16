@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "skills": {
+    "ai-agents-architect": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "2d9db65b198f21f1d962a0a49d9a500bca164997e680d34dd0809e139784c7f7"
+    },
+    "gcp-cloud-functions": {
+      "source": "aj-geddes/useful-ai-prompts",
+      "sourceType": "github",
+      "computedHash": "3b45017e7eceb5de2e53c60fe7c0e19f8a599aa72b6c4a2e79f6e094b18c0f68"
+    },
+    "gcp-cloud-run": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "fe1bd1df432de64d08d5ded8461f79550f231f302e245d4903b484aaf600dbfc"
+    },
+    "gcp-development": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "computedHash": "b0ea40e93be30751ccae856f82cc76fed57b98f90a1b3c116aaaf473e24ace81"
+    },
+    "gcp-expert": {
+      "source": "personamanagmentlayer/pcl",
+      "sourceType": "github",
+      "computedHash": "b1a69df568c164845ed4dee3d16acb6807afd08fcfccb3381ce57add6cc74495"
+    }
+  }
+}
