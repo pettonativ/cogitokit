@@ -44,8 +44,8 @@ These agents are available **only when their respective kit submodule is present
 | `aws-kit` | _(skills only)_ | "aws", "ec2", "s3", "lambda", "fargate", "sagemaker", "iam" |
 | `azure-kit` | _(skills only)_ | "azure", "app service", "aks", "container apps", "functions" |
 | `gcp-kit` | _(skills only)_ | "gcp", "cloud run", "gke", "bigquery", "pub/sub" |
-| `hr-kit` | _(skills only)_ | "sourcing", "recruiting", "candidate", "OSINT" |
-| `mktg-kit` | _(skills only)_ | "seo", "linkedin", "marketing", "content" |
+| `hr-kit` | `hr-recruiter` | "sourcing", "recruiting", "candidate", "OSINT" |
+| `mktg-kit` | `seo-specialist`, `linkedin-specialist` | "seo", "linkedin", "marketing", "content" |
 
 ---
 
